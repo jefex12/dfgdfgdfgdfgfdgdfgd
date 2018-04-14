@@ -264,5 +264,20 @@ key-direction 1
 verb 3" > /etc/openvpn/client-common.txt
 	# Generates the custom client.ovpn
 	newclient "$CLIENT"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
+	echo "Ready"
 fi
-	echo "Готово"
