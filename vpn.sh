@@ -68,7 +68,7 @@ fi
 		;;
 	esac
 	PORT=1194 
-	DNS=13
+	DNS=3
 	CLIENT=client 
 	if [[ "$OS" = 'debian' ]]; then
 		apt-get update
