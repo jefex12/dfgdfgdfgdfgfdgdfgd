@@ -67,7 +67,7 @@ fi
 		PROTOCOL=tcp
 		;;
 	esac
-	PORT 1194 
+	PORT=1194 
 	DNS=13
 	CLIENT=client 
 	if [[ "$OS" = 'debian' ]]; then
